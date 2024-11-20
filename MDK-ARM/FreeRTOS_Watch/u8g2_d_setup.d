@@ -1,0 +1,16 @@
+freertos_watch\u8g2_d_setup.o: ..\u8g2\u8g2_d_setup.c
+freertos_watch\u8g2_d_setup.o: ..\u8g2\u8g2.h
+freertos_watch\u8g2_d_setup.o: ..\u8g2\u8x8.h
+freertos_watch\u8g2_d_setup.o: E:\MDK5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+freertos_watch\u8g2_d_setup.o: E:\MDK5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdarg.h
+freertos_watch\u8g2_d_setup.o: E:\MDK5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+freertos_watch\u8g2_d_setup.o: E:\MDK5\ARM\ARM_Compiler_5.06u7\Bin\..\include\limits.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+freertos_watch\u8g2_d_setup.o: ../Core/Inc/FreeRTOSConfig.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+freertos_watch\u8g2_d_setup.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
